@@ -46,3 +46,5 @@ build/
 nbbuild/
 dist/
 nbdist/
+docker/zookeeper
+docker/kafka
