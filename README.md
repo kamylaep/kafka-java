@@ -2,7 +2,7 @@
 
 Small (and very simple) app that implements and tests pure Java Kafka Producers and Consumers.
 
-You can use this [docker compose file](docker/docker-compose.yml) to create a single node Kafka cluster.
+You can use this [docker-compose file](https://github.com/kamylaep/docker/blob/master/kafka/docker-compose.yml) to create a single node Kafka cluster.
 
 The topic used can be created using 
 
